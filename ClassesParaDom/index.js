@@ -26,3 +26,4 @@ form.addChildren(
   new Input(form, { id: 'birthdayInput', name: 'birthday', type: 'date' })
 )
 
+//teste
