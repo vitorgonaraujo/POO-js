@@ -1,9 +1,0 @@
-	Jornalista: Escreve Noticiais
-		Nome, data que ingressou, data de nascimento
-		
-
-	Noticiais: Tem quem escreveu ela
-		Titulo, Corpo da noticia, data que foi publicada, autor da noticia
-
-	Jornal: Publica as Noticias que os jornalistas escrevem.
-		Titulo do jornal, Dia atual, Corpo de noticias, 
