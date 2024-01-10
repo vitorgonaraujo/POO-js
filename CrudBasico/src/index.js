@@ -19,5 +19,5 @@ console.log(userDAO.updateUser(1, "Rafael", "rafael@gmail.com"));
 console.log(userDAO.listUsers());
 
 userDAO.deleteUser(3);
-userDAO.deleteUser(7);
+userDAO.deleteUser(8);
 console.log(userDAO.listUsers());
